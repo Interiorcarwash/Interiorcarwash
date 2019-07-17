@@ -159,7 +159,7 @@ section.success {
   text-transform: uppercase;
   border: none;
   border-bottom: 1px #cccccc solid;
-  background: #f2f2f2; }
+  background: red; }
   #mainNav a:focus {
     outline: none; }
 
