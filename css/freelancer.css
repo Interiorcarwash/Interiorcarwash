@@ -155,7 +155,7 @@ section.success {
 #mainNav {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 250;
-  font-size: 15px;
+  font-size: 25px;
   text-transform: uppercase;
   border: none;
   border-bottom: 1px #cccccc solid;
@@ -171,7 +171,7 @@ section.success {
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: black; }
   #mainNav .navbar-nav {
-    letter-spacing: 1px; }
+    letter-spacing: 2px; }
     #mainNav .navbar-nav li.nav-item a.nav-link {
       color: black; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
