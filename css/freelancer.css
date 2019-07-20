@@ -16,8 +16,8 @@ p i:hover {
   transform: scale(1.5);
 }
 
- .bord {
-    width: 600px;
+ .bordered {
+    width: 800px;
     height: 30px;
 	 color: black;
     background-color:	#3399ff;
