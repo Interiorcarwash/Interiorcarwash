@@ -16,7 +16,7 @@ p i:hover {
   transform: scale(1.5);
 }
 
- .border {
+ .bordered {
     width: 400px;
     height: 45px;
 	 color: black;
