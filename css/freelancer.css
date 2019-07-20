@@ -16,6 +16,13 @@ p i:hover {
   transform: scale(1.5);
 }
 
+ .bordered {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 10px groove yellowgreen;
+  }
+
 
 
 
