@@ -16,9 +16,10 @@ p i:hover {
   transform: scale(1.5);
 }
 
- .bord {
-    width: 100px;
+ .border {
+    width: 200px;
     height: 30px;
+	 color: black;
     background-color:	#3399ff;
     padding: 2px;
     text-align: center;
